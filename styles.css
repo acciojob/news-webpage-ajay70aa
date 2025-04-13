@@ -10,10 +10,11 @@ body {
 	background-color: #011e29;
 	display: flex;
 	justify-content: center;
+	text-align: center;
 	padding: 2px;
 	margin-bottom: 4px;
 }
-h1 {
+h2 {
 	color: white;
 }
 .main-section {
